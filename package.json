@@ -1,0 +1,33 @@
+{
+  "name": "copy-of-copy-of-chronicle_task",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "lucide-react": "^0.554.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "prosemirror-schema-basic": "^1.2.4",
+    "prosemirror-model": "^1.25.4",
+    "@xstate/react": "^6.0.0",
+    "xstate": "^5.24.0",
+    "prosemirror-view": "^1.41.3",
+    "prosemirror-schema-list": "^1.5.1",
+    "prosemirror-state": "^1.4.4",
+    "prosemirror-example-setup": "^1.2.3",
+    "prosemirror-commands": "^1.7.1",
+    "prosemirror-history": "^1.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
